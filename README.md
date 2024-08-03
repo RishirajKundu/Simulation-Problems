@@ -1,0 +1,5 @@
+Simulation of a single stock's price & a portfoio of stocks using Geometric Brownian Motion and Monte Carlo methods. (Language used Python)
+Simulation from a GARCH(2,2) process, parameter estimation and rolling volatility forecasts. (Language used R)
+Simulation to a theoretical statistical problem using Simulation approach. (Language used R)
+ -Problem Statement : 
+A gold miner is stranded in the hills and there are two paths he can take to escape. Path A loops back on itself and will take him 5 days to walk to the end. Path B brings him to a junction immediately (0 days). The junction at the end of path B has two paths. Path BA and Path BB.Path BA brings him back to his original starting point and takes him 2 days to complete. Path BB brings him to safety and takes him 1 day to complete. Each path has an equal probability of being chosen, and once a wrong path is chosen, the miner gets disoriented and cannot remember which path he has already walked down. What is the expected number of days he will spend walking before he exits the mine?
